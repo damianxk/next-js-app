@@ -14,7 +14,7 @@ export default authMiddleware({
     "/api/webhook/stripe",
     "/api/uploadthing",
     "/assets/images/"
-  ]
+  ],
 });
 
 export const config = {
